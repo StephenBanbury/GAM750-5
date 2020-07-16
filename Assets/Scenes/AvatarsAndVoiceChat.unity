@@ -356,5 +356,11 @@ PrefabInstance:
       propertyPath: _appKey
       value: b1a32980-faab-44fe-94d9-1220a31b7202
       objectReference: {fileID: 0}
+    - target: {fileID: 114568985850100520, guid: fca9d4afb3743274e8f7da14019d7e0b,
+        type: 3}
+      propertyPath: _localAvatarPrefab
+      value: 
+      objectReference: {fileID: 4895695098534981091, guid: 0adb32bcccb0be549a349c83a2d4e187,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca9d4afb3743274e8f7da14019d7e0b, type: 3}
