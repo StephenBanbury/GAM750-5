@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AvatarsAndVoiceChat.unity
+    guid: 3b8938171059b38469429d9c9587c685
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 400f78e8111e9c9458a4b7f5b1ff9b86,
       type: 2}
